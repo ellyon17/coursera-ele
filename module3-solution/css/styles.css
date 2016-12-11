@@ -1,0 +1,55 @@
+/** HEADER **/
+#header-nav {
+  background-color: #A3E4D7;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Indie Flower', cursive;
+  color: #557c3e;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #000;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  background-color: #A3E4D7;
+  color: #000;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a {
+  font-size: 1.8em;
+}
+
+.container .jumbotron {
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
+  width: 100%;
+}
+
+/** body **/
+/*#menu-title div.h1{
+font-size: 2em;
+color: #6C3483;
+font-family: 'Indie Flower', cursive;
+}*/
